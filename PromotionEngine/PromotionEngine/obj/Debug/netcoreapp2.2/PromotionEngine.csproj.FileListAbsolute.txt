@@ -1,0 +1,10 @@
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\PromotionEngine.deps.json
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\PromotionEngine.runtimeconfig.json
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\PromotionEngine.runtimeconfig.dev.json
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\PromotionEngine.dll
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\PromotionEngine.pdb
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\PromotionEngine.AssemblyInfo.cs
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\PromotionEngine.dll
+C:\Users\a293617\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\PromotionEngine.pdb
